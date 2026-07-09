@@ -1,0 +1,9 @@
+{
+  "name": "langanime",
+  "version": "1.0.0",
+  "description": "LANGANIME - Learn languages with anime",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  }
+}
